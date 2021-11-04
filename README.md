@@ -15,6 +15,8 @@
 [Contacts / Social Media](#contacts) <br />
 [Contributing](#contributing) <br />
 
+[A Guide to Effectively Cheating NFT Launches (and detecting cheaters)](https://medium.com/@convexlabs/a-guide-to-effectively-cheating-nft-launches-and-detecting-cheaters-a76143ef8ad8#6fc0) <br />
+
 <a name="motivation">
 
 ## Motivation
